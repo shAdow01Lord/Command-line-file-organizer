@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "luffy": "main.js"
+    "peppy": "main.js"
   },
   "description": ""
 }
